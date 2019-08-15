@@ -1,0 +1,10 @@
+<!DOC type HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Tutorial Belajar Git</title>
+	<head>
+	<body>
+	<h1>Ini merupakan tampilan html belajar Git</h1>
+	</body>
+</html>
